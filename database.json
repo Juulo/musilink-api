@@ -1,361 +1,491 @@
 {
-    "users": [
-        {
-            "id":1,
-            "name":"Elvin Dearlove",
-            "email":"edearlove0@wikimedia.org",
-            "phone":"572-389-4706", 
-            "about": ""},
-        {
-            "id":2,
-            "name":"Eada Gainsford",
-            "email":"egainsford1@tiny.cc",
-            "phone":"633-415-9464", 
-            "about": ""},
-        {
-            "id":3,
-            "name":"Adelice Depport",
-            "email":"adepport2@woothemes.com",
-            "phone":"871-929-6196", 
-            "about": ""},
-        {
-            "id":4,
-            "name":"Nissy Colaton",
-            "email":"ncolaton3@pinterest.com",
-            "phone":"696-135-7517", 
-            "about": ""},
-        {
-            "id":5,
-            "name":"Esta Bodham",
-            "email":"ebodham4@domainmarket.com",
-            "phone":"674-446-7790", 
-            "about": ""}
-    ],
-    "members": [
-        {
-            "id":1,
-            "name":"Hilliary Wolfenden",
-            "email":"hwolfenden0@blinklist.com",
-            "phone":"728-345-0113",
-            "tagId":1,
-            "genreId":1,
-            "budget":712,
-            "about":"Upgradable grid-enabled circuit"
-        },
-        {
-            "id":2,
-            "name":"Tammara Roose",
-            "email":"troose1@cornell.edu",
-            "phone":"187-932-3822",
-            "tagId":2,
-            "genreId":2,
-            "budget":217,
-            "about":"Mandatory tertiary knowledge user"
-        },
-        {
-            "id":3,
-            "name":"Marga Baitey",
-            "email":"mbaitey2@reuters.com",
-            "phone":"859-254-3805",
-            "tagId":3,
-            "genreId":3,
-            "budget":730,
-            "about":"Multi-tiered coherent methodology"
-        },
-        {
-            "id":4,
-            "name":"Lonna Dickerline",
-            "email":"ldickerline3@marriott.com",
-            "phone":"725-770-7183",
-            "tagId":4,
-            "genreId":4,
-            "budget":891,
-            "about":"Implemented static orchestration"
-        },
-        {
-            "id":5,
-            "name":"Valma Bracken",
-            "email":"vbracken4@epa.gov",
-            "phone":"176-756-6442",
-            "tagId":5,
-            "genreId":5,
-            "budget":384,
-            "about":"User-friendly 24/7 workforce"
-        },
-        {
-            "id":6,
-            "name":"Rickert Lemasney",
-            "email":"rlemasney5@fotki.com",
-            "phone":"516-715-2882",
-            "tagId":6,
-            "genreId":6,
-            "budget":637,
-            "about":"Operative 4th generation complexity"
-        },
-        {
-            "id":7,
-            "name":"Bethina Slaney",
-            "email":"bslaney6@webmd.com",
-            "phone":"741-559-1010",
-            "tagId":3,
-            "genreId":1,
-            "budget":926,
-            "about":"Visionary encompassing throughput"
-        },
-        {
-            "id":8,
-            "name":"Beverlee Vaszoly",
-            "email":"bvaszoly7@shutterfly.com",
-            "phone":"451-948-2126",
-            "tagId":5,
-            "genreId":5,
-            "budget":191,
-            "about":"Reactive web-enabled instruction set"
-        },
-        {
-            "id":9,
-            "name":"Annalise Sepey",
-            "email":"asepey8@ucla.edu",
-            "phone":"520-279-3130",
-            "tagId":2,
-            "genreId":4,
-            "budget":792,
-            "about":"Synchronised intangible contingency"
-        },
-        {
-            "id":10,
-            "name":"Clarence Mourant",
-            "email":"cmourant9@feedburner.com",
-            "phone":"291-739-3747",
-            "tagId":3,
-            "genreId":6,
-            "budget":983,
-            "about":"Intuitive contextually-based throughput"
-        },
-        {
-            "id":11,
-            "name":"Valentina Kennermann",
-            "email":"vkennermanna@msu.edu","phone":"958-730-1962",
-            "tagId":11,
-            "genreId":11,
-            "budget":561,
-            "about":"Exclusive client-server support"
-        },
-        {
-            "id":12,
-            "name":"Riley Mattersley",
-            "email":"rmattersleyb@addtoany.com",
-            "phone":"338-401-9220",
-            "tagId":1,
-            "genreId":6,
-            "budget":742,
-            "about":"Stand-alone heuristic success"
-        },
-        {
-            "id":13,
-            "name":"Drew Van den Bosch",
-            "email":"dvanc@wikia.com",
-            "phone":"204-409-4146",
-            "tagId":4,
-            "genreId":5,
-            "budget":130,
-            "about":"Horizontal discrete infrastructure"
-        },
-        {
-            "id":14,
-            "name":"Dallon Arnauduc",
-            "email":"darnauducd@smh.com.au",
-            "phone":"733-962-8767",
-            "tagId":3,
-            "genreId":3,
-            "budget":107,
-            "about":"Reverse-engineered asynchronous hierarchy"
-        },
-        {
-            "id":15,
-            "name":"Doretta Airlie",
-            "email":"dairliee@360.cn",
-            "phone":"406-360-2568",
-            "tagId":2,
-            "genreId":2,"budget":671,
-            "about":"Managed motivating monitoring"
-        },
-        {
-            "id":16,
-            "name":"Dorry Hovenden",
-            "email":"dhovendenf@webmd.com",
-            "phone":"869-131-1886",
-            "tagId":4,
-            "genreId":4,
-            "budget":812,
-            "about":"Business-focused empowering solution"
-        },
-        {
-            "id":17,
-            "name":"Brock Merle",
-            "email":"bmerleg@yellowpages.com",
-            "phone":"393-669-9424",
-            "tagId":2,
-            "genreId":3,
-            "budget":805,
-            "about":"Reverse-engineered methodical task-force"
-        },
-        {
-            "id":18,
-            "name":"Norma Copsey",
-            "email":"ncopseyh@naver.com",
-            "phone":"698-434-9187",
-            "tagId":1,
-            "genreId":1,
-            "budget":244,
-            "about":"Polarised 6th generation attitude"
-        },
-        {
-            "id":19,
-            "name":"Barret Garron",
-            "email":"bgarroni@abc.net.au",
-            "phone":"525-296-3510",
-            "tagId":1,
-            "genreId":2,
-            "budget":394,
-            "about":"Distributed fresh-thinking budgetary management"
-        },
-        {
-            "id":20,
-            "name":"Dorothee Batiste",
-            "email":"dbatistej@domainmarket.com",
-            "phone":"976-679-4930",
-            "tagId":2,
-            "genreId":3,
-            "budget":711,
-            "about":"Right-sized analyzing attitude"
-        }
-        
-    ],
-    "tags": [
-        {
-            "id": 1,
-            "tag": "Composer"
-        },
-        {
-            "id": 2,
-            "tag": "Producer"
-        },
-        {
-            "id": 3,
-            "tag": "Musician"
-        },
-        {
-            "id": 4,
-            "tag": "Guitarist"
-        },
-        {
-            "id": 5,
-            "tag": "Violinist"
-        },
-        {
-            "id": 6,
-            "tag": "Pianist"
-        },
-        {
-            "id": 7,
-            "tag": "Cellist"
-        },
-        {
-            "id": 8,
-            "tag": "Flutist"
-        },
-        {
-            "id": 9,
-            "tag": "Vocalist"
-        },
-        {
-            "id": 10,
-            "tag": "Drummer"
-        },
-        {
-            "id": 11,
-            "tag": "Orchestrator"
-        }
-    ],
-    "genres": [
-        {
-            "id": 1,
-            "genre": "Metal"
-        },
-        {
-            "id": 2,
-            "genre": "Rock"
-        },
-        {
-            "id": 3,
-            "genre": "Math-Rock"
-        },
-        {
-            "id": 4,
-            "genre": "Hip-Hop"
-        },
-        {
-            "id": 5,
-            "genre": "Trap"
-        },
-        {
-            "id": 6,
-            "genre": "Pop"
-        },
-        {
-            "id": 7,
-            "genre": "Fantasy"
-        },
-        {
-            "id": 8,
-            "genre": "Gothic-Fantasy"
-        },
-        {
-            "id": 9,
-            "genre": "Country"
-        },
-        {
-            "id": 10,
-            "genre": "Blues"
-        },
-        {
-            "id": 11,
-            "genre": "Techno"
-        },
-        {
-            "id": 12,
-            "genre": "EDM"
-        },
-        {
-            "id": 13,
-            "genre": "R & B"
-        },
-        {
-            "id": 14,
-            "genre": "Dubstep"
-        },
-        {
-            "id": 15,
-            "genre": "Jazz"
-        },
-        {
-            "id": 16,
-            "genre": "Orchestral"
-        },
-        {
-            "id": 17,
-            "genre": "Hybrid-Orchestral"
-        }
-    ],
-    "requests": [
-        {
-            "id": 1,
-            "memberId": 2,
-            "userId": 1,
-            "deadline": "4/23/22",
-            "dateAccepted": "3/12/22",
-            "completed": false
-        }
-    ]
+  "users": [
+    {
+      "id": 1,
+      "isMember": false,
+      "name": "Elvin Dearlove",
+      "email": "edearlove0@wikimedia.org",
+      "phone": "572-389-4706",
+      "about": ""
+    },
+    {
+      "id": 2,
+      "isMember": false,
+      "name": "Eada Gainsford",
+      "email": "egainsford1@tiny.cc",
+      "phone": "633-415-9464",
+      "about": ""
+    },
+    {
+      "id": 3,
+      "isMember": false,
+      "name": "Adelice Depport",
+      "email": "adepport2@woothemes.com",
+      "phone": "871-929-6196",
+      "about": ""
+    },
+    {
+      "id": 4,
+      "isMember": false,
+      "name": "Nissy Colaton",
+      "email": "ncolaton3@pinterest.com",
+      "phone": "696-135-7517",
+      "about": ""
+    },
+    {
+      "id": 5,
+      "isMember": false,
+      "name": "Esta Bodham",
+      "email": "ebodham4@domainmarket.com",
+      "phone": "674-446-7790",
+      "about": ""
+    },
+    {
+      "name": "Jajuan Jones",
+      "isMember": false,
+      "email": "jajuan@jones.com",
+      "id": 6
+    },
+    {
+      "name": "Michelle Obama",
+      "isMember": false,
+      "email": "michelle@obama.com",
+      "id": 7
+    },
+    {
+      "name": "Mike Wazowski",
+      "isMember": false,
+      "email": "mike@wazowski.com",
+      "id": 8
+    },
+    {
+      "id": 9,
+      "name": "Hilliary Wolfenden",
+      "email": "hwolfenden0@blinklist.com",
+      "isMember": true,
+      "about": "Upgradable grid-enabled circuit"
+    },
+    {
+      "id": 10,
+      "name": "Tammara Roose",
+      "email": "troose1@cornell.edu",
+      "isMember": true,
+      "about": "Mandatory tertiary knowledge user"
+    },
+    {
+      "id": 11,
+      "name": "Marga Baitey",
+      "email": "mbaitey2@reuters.com",
+      "isMember": true,
+      "about": "Multi-tiered coherent methodology"
+    },
+    {
+      "id": 12,
+      "name": "Lonna Dickerline",
+      "email": "ldickerline3@marriott.com",
+      "about": "Implemented static orchestration",
+      "isMember": true
+    },
+    {
+      "id": 13,
+      "name": "Valma Bracken",
+      "email": "vbracken4@epa.gov",
+      "about": "User-friendly 24/7 workforce",
+      "isMember": true
+    },
+    {
+      "id": 14,
+      "name": "Rickert Lemasney",
+      "email": "rlemasney5@fotki.com",
+      "about": "Operative 4th generation complexity",
+      "isMember": true
+    },
+    {
+      "id": 15,
+      "name": "Bethina Slaney",
+      "email": "bslaney6@webmd.com",
+      "about": "Visionary encompassing throughput",
+      "isMember": true
+    },
+    {
+      "id": 16,
+      "name": "Beverlee Vaszoly",
+      "email": "bvaszoly7@shutterfly.com",
+      "about": "Reactive web-enabled instruction set",
+      "isMember": true
+    },
+    {
+      "id": 17,
+      "name": "Annalise Sepey",
+      "email": "asepey8@ucla.edu",
+      "about": "Synchronised intangible contingency",
+      "isMember": true
+    },
+    {
+      "id": 18,
+      "name": "Clarence Mourant",
+      "email": "cmourant9@feedburner.com",
+      "about": "Intuitive contextually-based throughput",
+      "isMember": true
+    },
+    {
+      "id": 19,
+      "name": "Valentina Kennermann",
+      "email": "vkennermanna@msu.edu",
+      "about": "Exclusive client-server support",
+      "isMember": true
+    },
+    {
+      "id": 20,
+      "name": "Riley Mattersley",
+      "email": "rmattersleyb@addtoany.com",
+      "about": "Stand-alone heuristic success",
+      "isMember": true
+    },
+    {
+      "id": 21,
+      "name": "Drew Van den Bosch",
+      "email": "dvanc@wikia.com",
+      "about": "Horizontal discrete infrastructure",
+      "isMember": true
+    },
+    {
+      "id": 22,
+      "name": "Dallon Arnauduc",
+      "email": "darnauducd@smh.com.au",
+      "about": "Reverse-engineered asynchronous hierarchy",
+      "isMember": true
+    },
+    {
+      "id": 23,
+      "name": "Doretta Airlie",
+      "email": "dairliee@360.cn",
+      "about": "Managed motivating monitoring",
+      "isMember": true
+    },
+    {
+      "id": 24,
+      "name": "Dorry Hovenden",
+      "email": "dhovendenf@webmd.com",
+      "about": "Business-focused empowering solution",
+      "isMember": true
+    },
+    {
+      "id": 25,
+      "name": "Brock Merle",
+      "email": "bmerleg@yellowpages.com",
+      "about": "Reverse-engineered methodical task-force",
+      "isMember": true
+    },
+    {
+      "id": 26,
+      "name": "Norma Copsey",
+      "email": "ncopseyh@naver.com",
+      "about": "Polarised 6th generation attitude",
+      "isMember": true
+    },
+    {
+      "id": 27,
+      "name": "Barret Garron",
+      "email": "bgarroni@abc.net.au",
+      "about": "Distributed fresh-thinking budgetary management",
+      "isMember": true
+    },
+    {
+      "id": 28,
+      "name": "Dorothee Batiste",
+      "email": "dbatistej@domainmarket.com",
+      "about": "Right-sized analyzing attitude",
+      "isMember": true
+    }
+  ],
+  "members": [
+    {
+      "id": 1,
+      "userId": 9,
+      "phone": "728-345-0113",
+      "tagId": 1,
+      "genreId": 1,
+      "budget": 712
+    },
+    {
+      "id": 1,
+      "userId": 10,
+      "phone": "187-932-3822",
+      "tagId": 2,
+      "genreId": 2,
+      "budget": 217
+    },
+    {
+      "id": 3,
+      "userId": 11,
+      "phone": "859-254-3805",
+      "tagId": 3,
+      "genreId": 3,
+      "budget": 730
+    },
+    {
+      "id": 4,
+      "userId": 12,
+      "phone": "725-770-7183",
+      "tagId": 4,
+      "genreId": 4,
+      "budget": 891
+    },
+    {
+      "id": 5,
+      "userId": 13,
+      "phone": "176-756-6442",
+      "tagId": 5,
+      "genreId": 5,
+      "budget": 384
+    },
+    {
+      "id": 6,
+      "userId": 14,
+      "phone": "516-715-2882",
+      "tagId": 6,
+      "genreId": 6,
+      "budget": 637
+    },
+    {
+      "id": 7,
+      "userId": 15,
+      "phone": "741-559-1010",
+      "tagId": 3,
+      "genreId": 1,
+      "budget": 926
+    },
+    {
+      "id": 8,
+      "userId": 16,
+      "phone": "451-948-2126",
+      "tagId": 5,
+      "genreId": 5,
+      "budget": 191
+    },
+    {
+      "id": 9,
+      "userId": 17,
+      "phone": "520-279-3130",
+      "tagId": 2,
+      "genreId": 4,
+      "budget": 792
+    },
+    {
+      "id": 10,
+      "userId": 18,
+      "phone": "291-739-3747",
+      "tagId": 3,
+      "genreId": 6,
+      "budget": 983
+    },
+    {
+      "id": 11,
+      "userId": 19,
+      "phone": "958-730-1962",
+      "tagId": 11,
+      "genreId": 11,
+      "budget": 561
+    },
+    {
+      "id": 12,
+      "userId": 20,
+      "phone": "338-401-9220",
+      "tagId": 1,
+      "genreId": 6,
+      "budget": 742
+    },
+    {
+      "id": 13,
+      "userId": 21,
+      "phone": "204-409-4146",
+      "tagId": 4,
+      "genreId": 5,
+      "budget": 130
+    },
+    {
+      "id": 14,
+      "userId": 22,
+      "phone": "733-962-8767",
+      "tagId": 3,
+      "genreId": 3,
+      "budget": 107
+    },
+    {
+      "id": 15,
+      "userId": 23,
+      "phone": "406-360-2568",
+      "tagId": 2,
+      "genreId": 2,
+      "budget": 671
+    },
+    {
+      "id": 16,
+      "userId": 24,
+      "phone": "869-131-1886",
+      "tagId": 4,
+      "genreId": 4,
+      "budget": 812
+    },
+    {
+      "id": 17,
+      "userId": 25,
+      "phone": "393-669-9424",
+      "tagId": 2,
+      "genreId": 3,
+      "budget": 805
+    },
+    {
+      "id": 18,
+      "userId": 26,
+      "phone": "698-434-9187",
+      "tagId": 1,
+      "genreId": 1,
+      "budget": 244
+    },
+    {
+      "id": 19,
+      "userId": 27,
+      "phone": "525-296-3510",
+      "tagId": 1,
+      "genreId": 2,
+      "budget": 394
+    },
+    {
+      "id": 20,
+      "userId": 28,
+      "phone": "976-679-4930",
+      "tagId": 2,
+      "genreId": 3,
+      "budget": 711
+    }
+  ],
+  "tags": [
+    {
+      "id": 1,
+      "tag": "Composer"
+    },
+    {
+      "id": 2,
+      "tag": "Producer"
+    },
+    {
+      "id": 3,
+      "tag": "Musician"
+    },
+    {
+      "id": 4,
+      "tag": "Guitarist"
+    },
+    {
+      "id": 5,
+      "tag": "Violinist"
+    },
+    {
+      "id": 6,
+      "tag": "Pianist"
+    },
+    {
+      "id": 7,
+      "tag": "Cellist"
+    },
+    {
+      "id": 8,
+      "tag": "Flutist"
+    },
+    {
+      "id": 9,
+      "tag": "Vocalist"
+    },
+    {
+      "id": 10,
+      "tag": "Drummer"
+    },
+    {
+      "id": 11,
+      "tag": "Orchestrator"
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "genre": "Metal"
+    },
+    {
+      "id": 2,
+      "genre": "Rock"
+    },
+    {
+      "id": 3,
+      "genre": "Math-Rock"
+    },
+    {
+      "id": 4,
+      "genre": "Hip-Hop"
+    },
+    {
+      "id": 5,
+      "genre": "Trap"
+    },
+    {
+      "id": 6,
+      "genre": "Pop"
+    },
+    {
+      "id": 7,
+      "genre": "Fantasy"
+    },
+    {
+      "id": 8,
+      "genre": "Gothic-Fantasy"
+    },
+    {
+      "id": 9,
+      "genre": "Country"
+    },
+    {
+      "id": 10,
+      "genre": "Blues"
+    },
+    {
+      "id": 11,
+      "genre": "Techno"
+    },
+    {
+      "id": 12,
+      "genre": "EDM"
+    },
+    {
+      "id": 13,
+      "genre": "R & B"
+    },
+    {
+      "id": 14,
+      "genre": "Dubstep"
+    },
+    {
+      "id": 15,
+      "genre": "Jazz"
+    },
+    {
+      "id": 16,
+      "genre": "Orchestral"
+    },
+    {
+      "id": 17,
+      "genre": "Hybrid-Orchestral"
+    }
+  ],
+  "requests": [
+    {
+      "userId": 6,
+      "memberId": 4,
+      "description": "Hey, would like to collab with you to make a lofi track, need a guitarist. Email me for the deets.",
+      "deadline": "2022-03-31",
+      "completed": false,
+      "dateAccepted": "",
+      "id": 1
+    }
+  ]
 }
