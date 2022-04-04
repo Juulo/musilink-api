@@ -41,18 +41,24 @@
       "about": ""
     },
     {
+      "about": "",
+      "phone": "",
       "name": "Jajuan Jones",
       "isMember": false,
       "email": "jajuan@jones.com",
       "id": 6
     },
     {
+      "about": "",
+      "phone": "",
       "name": "Michelle Obama",
       "isMember": false,
       "email": "michelle@obama.com",
       "id": 7
     },
     {
+      "about": "",
+      "phone": "",
       "name": "Mike Wazowski",
       "isMember": false,
       "email": "mike@wazowski.com",
@@ -62,6 +68,7 @@
       "id": 9,
       "name": "Hilliary Wolfenden",
       "email": "hwolfenden0@blinklist.com",
+      "phone": "728-345-0113",
       "isMember": true,
       "about": "Upgradable grid-enabled circuit"
     },
@@ -69,6 +76,7 @@
       "id": 10,
       "name": "Tammara Roose",
       "email": "troose1@cornell.edu",
+      "phone": "187-932-3822",
       "isMember": true,
       "about": "Mandatory tertiary knowledge user"
     },
@@ -76,6 +84,7 @@
       "id": 11,
       "name": "Marga Baitey",
       "email": "mbaitey2@reuters.com",
+      "phone": "859-254-3805",
       "isMember": true,
       "about": "Multi-tiered coherent methodology"
     },
@@ -83,6 +92,7 @@
       "id": 12,
       "name": "Lonna Dickerline",
       "email": "ldickerline3@marriott.com",
+      "phone": "725-770-7183",
       "about": "Implemented static orchestration",
       "isMember": true
     },
@@ -90,6 +100,7 @@
       "id": 13,
       "name": "Valma Bracken",
       "email": "vbracken4@epa.gov",
+      "phone": "176-756-6442",
       "about": "User-friendly 24/7 workforce",
       "isMember": true
     },
@@ -97,6 +108,7 @@
       "id": 14,
       "name": "Rickert Lemasney",
       "email": "rlemasney5@fotki.com",
+      "phone": "516-715-2882",
       "about": "Operative 4th generation complexity",
       "isMember": true
     },
@@ -104,6 +116,7 @@
       "id": 15,
       "name": "Bethina Slaney",
       "email": "bslaney6@webmd.com",
+      "phone": "741-559-1010",
       "about": "Visionary encompassing throughput",
       "isMember": true
     },
@@ -111,6 +124,7 @@
       "id": 16,
       "name": "Beverlee Vaszoly",
       "email": "bvaszoly7@shutterfly.com",
+      "phone": "451-948-2126",
       "about": "Reactive web-enabled instruction set",
       "isMember": true
     },
@@ -118,6 +132,7 @@
       "id": 17,
       "name": "Annalise Sepey",
       "email": "asepey8@ucla.edu",
+      "phone": "520-279-3130",
       "about": "Synchronised intangible contingency",
       "isMember": true
     },
@@ -125,6 +140,7 @@
       "id": 18,
       "name": "Clarence Mourant",
       "email": "cmourant9@feedburner.com",
+      "phone": "291-739-3747",
       "about": "Intuitive contextually-based throughput",
       "isMember": true
     },
@@ -132,6 +148,7 @@
       "id": 19,
       "name": "Valentina Kennermann",
       "email": "vkennermanna@msu.edu",
+      "phone": "958-730-1962",
       "about": "Exclusive client-server support",
       "isMember": true
     },
@@ -139,6 +156,7 @@
       "id": 20,
       "name": "Riley Mattersley",
       "email": "rmattersleyb@addtoany.com",
+      "phone": "338-401-9220",
       "about": "Stand-alone heuristic success",
       "isMember": true
     },
@@ -146,6 +164,7 @@
       "id": 21,
       "name": "Drew Van den Bosch",
       "email": "dvanc@wikia.com",
+      "phone": "204-409-4146",
       "about": "Horizontal discrete infrastructure",
       "isMember": true
     },
@@ -153,6 +172,7 @@
       "id": 22,
       "name": "Dallon Arnauduc",
       "email": "darnauducd@smh.com.au",
+      "phone": "733-962-8767",
       "about": "Reverse-engineered asynchronous hierarchy",
       "isMember": true
     },
@@ -160,6 +180,7 @@
       "id": 23,
       "name": "Doretta Airlie",
       "email": "dairliee@360.cn",
+      "phone": "406-360-2568",
       "about": "Managed motivating monitoring",
       "isMember": true
     },
@@ -167,6 +188,7 @@
       "id": 24,
       "name": "Dorry Hovenden",
       "email": "dhovendenf@webmd.com",
+      "phone": "869-131-1886",
       "about": "Business-focused empowering solution",
       "isMember": true
     },
@@ -174,6 +196,7 @@
       "id": 25,
       "name": "Brock Merle",
       "email": "bmerleg@yellowpages.com",
+      "phone": "393-669-9424",
       "about": "Reverse-engineered methodical task-force",
       "isMember": true
     },
@@ -181,6 +204,7 @@
       "id": 26,
       "name": "Norma Copsey",
       "email": "ncopseyh@naver.com",
+      "phone": "698-434-9187",
       "about": "Polarised 6th generation attitude",
       "isMember": true
     },
@@ -188,6 +212,7 @@
       "id": 27,
       "name": "Barret Garron",
       "email": "bgarroni@abc.net.au",
+      "phone": "525-296-3510",
       "about": "Distributed fresh-thinking budgetary management",
       "isMember": true
     },
@@ -195,23 +220,38 @@
       "id": 28,
       "name": "Dorothee Batiste",
       "email": "dbatistej@domainmarket.com",
+      "phone": "976-679-4930",
       "about": "Right-sized analyzing attitude",
       "isMember": true
+    },
+    {
+      "name": "Maybell Summer",
+      "email": "maybell@summer2.com",
+      "isMember": false,
+      "about": "",
+      "phone": "",
+      "id": 29
+    },
+    {
+      "name": "Cane Cane",
+      "email": "cane@cane.com",
+      "isMember": true,
+      "about": "",
+      "phone": "",
+      "id": 30
     }
   ],
   "members": [
     {
       "id": 1,
       "userId": 9,
-      "phone": "728-345-0113",
       "tagId": 1,
       "genreId": 1,
       "budget": 712
     },
     {
-      "id": 1,
+      "id": 2,
       "userId": 10,
-      "phone": "187-932-3822",
       "tagId": 2,
       "genreId": 2,
       "budget": 217
@@ -219,7 +259,6 @@
     {
       "id": 3,
       "userId": 11,
-      "phone": "859-254-3805",
       "tagId": 3,
       "genreId": 3,
       "budget": 730
@@ -227,7 +266,6 @@
     {
       "id": 4,
       "userId": 12,
-      "phone": "725-770-7183",
       "tagId": 4,
       "genreId": 4,
       "budget": 891
@@ -235,7 +273,6 @@
     {
       "id": 5,
       "userId": 13,
-      "phone": "176-756-6442",
       "tagId": 5,
       "genreId": 5,
       "budget": 384
@@ -243,7 +280,6 @@
     {
       "id": 6,
       "userId": 14,
-      "phone": "516-715-2882",
       "tagId": 6,
       "genreId": 6,
       "budget": 637
@@ -251,7 +287,6 @@
     {
       "id": 7,
       "userId": 15,
-      "phone": "741-559-1010",
       "tagId": 3,
       "genreId": 1,
       "budget": 926
@@ -259,7 +294,6 @@
     {
       "id": 8,
       "userId": 16,
-      "phone": "451-948-2126",
       "tagId": 5,
       "genreId": 5,
       "budget": 191
@@ -267,7 +301,6 @@
     {
       "id": 9,
       "userId": 17,
-      "phone": "520-279-3130",
       "tagId": 2,
       "genreId": 4,
       "budget": 792
@@ -275,7 +308,6 @@
     {
       "id": 10,
       "userId": 18,
-      "phone": "291-739-3747",
       "tagId": 3,
       "genreId": 6,
       "budget": 983
@@ -283,7 +315,6 @@
     {
       "id": 11,
       "userId": 19,
-      "phone": "958-730-1962",
       "tagId": 11,
       "genreId": 11,
       "budget": 561
@@ -291,7 +322,6 @@
     {
       "id": 12,
       "userId": 20,
-      "phone": "338-401-9220",
       "tagId": 1,
       "genreId": 6,
       "budget": 742
@@ -299,7 +329,6 @@
     {
       "id": 13,
       "userId": 21,
-      "phone": "204-409-4146",
       "tagId": 4,
       "genreId": 5,
       "budget": 130
@@ -307,7 +336,6 @@
     {
       "id": 14,
       "userId": 22,
-      "phone": "733-962-8767",
       "tagId": 3,
       "genreId": 3,
       "budget": 107
@@ -315,7 +343,6 @@
     {
       "id": 15,
       "userId": 23,
-      "phone": "406-360-2568",
       "tagId": 2,
       "genreId": 2,
       "budget": 671
@@ -323,7 +350,6 @@
     {
       "id": 16,
       "userId": 24,
-      "phone": "869-131-1886",
       "tagId": 4,
       "genreId": 4,
       "budget": 812
@@ -331,7 +357,6 @@
     {
       "id": 17,
       "userId": 25,
-      "phone": "393-669-9424",
       "tagId": 2,
       "genreId": 3,
       "budget": 805
@@ -339,7 +364,6 @@
     {
       "id": 18,
       "userId": 26,
-      "phone": "698-434-9187",
       "tagId": 1,
       "genreId": 1,
       "budget": 244
@@ -347,7 +371,6 @@
     {
       "id": 19,
       "userId": 27,
-      "phone": "525-296-3510",
       "tagId": 1,
       "genreId": 2,
       "budget": 394
@@ -355,7 +378,6 @@
     {
       "id": 20,
       "userId": 28,
-      "phone": "976-679-4930",
       "tagId": 2,
       "genreId": 3,
       "budget": 711
@@ -480,12 +502,14 @@
   "requests": [
     {
       "userId": 6,
-      "memberId": 4,
-      "description": "Hey, would like to collab with you to make a lofi track, need a guitarist. Email me for the deets.",
-      "deadline": "2022-03-31",
-      "completed": false,
+      "memberId": 1,
+      "description": "need another blah blah",
+      "deadline": "2022-04-07",
+      "accepted": false,
       "dateAccepted": "",
-      "id": 1
+      "completed": false,
+      "dateCompleted": "",
+      "id": 2
     }
   ]
 }
